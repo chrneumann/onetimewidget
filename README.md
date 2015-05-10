@@ -38,6 +38,7 @@ CKEDITOR.plugins.addExternal('onetimewidget', '/lib/onetimewidget/', 'plugin.js'
 CKEDITOR.replace(elementId, {
   extraPlugins: 'onetimewidget',
 });
+```
 
 Ideas
 -----
